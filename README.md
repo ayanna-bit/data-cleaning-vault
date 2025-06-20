@@ -6,8 +6,6 @@ This is a growing collection of mini projects focused on real-world data cleanin
 
 Built using Python (pandas) and R (tidyverse), each task targets a common data mess and shows how to clean it step by step.
 
-
-
 🧼 Included Tasks
 
 - ✅ Removing duplicates
